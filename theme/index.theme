@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=TransFlat 1
+Comment=A modern flat theme with Transparency modified by ludx
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=TransFlat
+MetacityTheme=TransFlat
+ButtonLayout=:minimize,maximize,close
