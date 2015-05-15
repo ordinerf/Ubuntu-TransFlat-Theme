@@ -2,6 +2,12 @@ TransFlat Theme for Ubuntu
 ===============
 UBUNTU 15.04 / 14.04
 
+A full flat theme for Ubuntu with some transparency bars. 
+
+## Screenshot
+
+![](https://raw.githubusercontent.com/ordinerf/Ubuntu-TransFlat-Theme/master/screen/screen.png)
+
 ##INSTALL
 
 Install Unity Tweak tool and some Fonts
@@ -21,3 +27,7 @@ Install Unity Tweak tool and some Fonts
         * Font fix space : Droid Sans Mono Regular
         * Windows Title Font : Noto Sans Bold 8
 
+## Rewards
+
+- Icons Based on Flattr icons
+- Theme base on Ultra-Flat
