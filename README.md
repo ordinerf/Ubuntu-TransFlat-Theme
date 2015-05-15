@@ -30,4 +30,4 @@ Install Unity Tweak tool and some Fonts
 ## Rewards
 
 - Icons Based on Flattr icons
-- Theme base on Ultra-Flat
+- Theme Based on Ultra-Flat
